@@ -1,8 +1,6 @@
-- layout: right
+- layout: left 
   name: Technical University of Sofia
   dates: 2015 - 2019
   qualification: BSc Computer and Software Engineering
-  quote: >
-    A waste of my time 
-  description: | # this will include new lines to allow paragraphs
-    Seriously
+  quote: A waste of my time 
+  description: Seriously
