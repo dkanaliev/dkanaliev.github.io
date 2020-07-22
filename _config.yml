@@ -57,3 +57,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+future: true
