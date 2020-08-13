@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Dimitar Kanaliev 
-title: DevOps Technical Lead 
+title: Senior DevOps Engineer | Project Technical Lead 
 email: mitko.kanaliev@gmail.com
 website: dkanaliev.github.io
 
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dimitar and I'm a senior DevOps Engineer. As well as administrating systems I also have experience making software.
 
-  I am most skilled in: <mark>Custom cloud solutions</mark>
+#  I am most skilled in: <mark>Custom cloud solutions</mark>
 
 # Projects Section
 # projects_title: Projects
