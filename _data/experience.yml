@@ -4,7 +4,7 @@
   job_title: Senior DevOps Engineer
   dates: February 2020 - Present
   description: |
-    Senior DevOps Engineer and Technical Lead for SiteGround's control panel backend. Used C, Perl, Go, Sqlite, PostgreSQL. Maintained over 90% unit test code coverage. |
+    Senior DevOps Engineer and Technical Lead for SiteGround's control panel backend. Used C, Perl, Go, Sqlite, PostgreSQL. Maintained over 90% unit test code coverage.
     Deployed in production in Nov. 2019 and currently used by more than 600,000 sites.
 
 - layout: left
@@ -13,7 +13,7 @@
   job_title: DevOps Engineer
   dates: July 2018 - February 2020
   description: |
-    Designed, implemented and maintained custom infrastructure solutions for SiteGround's AI team. |
+    Designed, implemented and maintained custom infrastructure solutions for SiteGround's AI team.
     Worked on a centralized system for event tracking and data collection for SiteGround's custom control panel. Designed and implemented a shared message queue based on NSQ.
 
 - layout: left
